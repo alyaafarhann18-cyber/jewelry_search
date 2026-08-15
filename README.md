@@ -73,9 +73,8 @@ This scans `Jewellery_Data/`, extracts an embedding for every image, and saves t
  
 **2. Launch the app:**
  
-```bash
 https://jewelrysearch-ayeqy6wf7bypenubr7yu48.streamlit.app/
-```
+
  
 ## Notes
  
