@@ -74,12 +74,8 @@ This scans `Jewellery_Data/`, extracts an embedding for every image, and saves t
 **2. Launch the app:**
  
 ```bash
-streamlit run app.py
+https://jewelrysearch-ayeqy6wf7bypenubr7yu48.streamlit.app/
 ```
- 
-Then open the local URL Streamlit prints (usually `http://localhost:8501`), upload a jewelry photo, and browse the matches.
- 
----
  
 ## Notes
  
