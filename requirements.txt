@@ -1,6 +1,7 @@
-tensorflow
-streamlit
-scikit-learn
-numpy
-pillow
-tqdm
+tensorflow-cpu==2.15.0
+streamlit==1.38.0
+scikit-learn==1.5.1
+numpy==1.26.4
+pillow==10.4.0
+tqdm==4.66.5
+ 
